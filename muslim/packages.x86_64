@@ -48,5 +48,4 @@ mpv
 fastboot
 git
 plank
-apktool
 --install-recommends
