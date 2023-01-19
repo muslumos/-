@@ -25,3 +25,7 @@ jobs:
           title: "Auto build"
           files: |
             /output/*
+            - name: testing-gh-actions
+  uses: jerry-sky/testing-gh-actions@a-prime
+
+            
