@@ -25,5 +25,3 @@ jobs:
           title: "Auto build"
           files: |
             /output/*
-
-            
